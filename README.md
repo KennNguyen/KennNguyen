@@ -36,4 +36,4 @@
 
 ## 📬 Let's Connect
 
-📧 [Email](mailto:kennnguyendev@gmail.com) • [LinkedIn](https://www.linkedin.com/in/kennethnguyen2025/) • [GitHub Projects](https://github.com/KennNguyen)
+📧 [Email](mailto:kennnguyendev@gmail.com) • [LinkedIn](https://www.linkedin.com/in/kennethnguyen2025/) • [GitHub Projects](https://github.com/KennNguyen?tab=repositories)
